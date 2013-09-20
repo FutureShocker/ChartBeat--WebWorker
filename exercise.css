@@ -1,0 +1,9 @@
+table {
+
+  border: 1px solid black;
+
+}
+
+.inline {
+  display: inline-block;
+}
